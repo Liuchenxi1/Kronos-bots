@@ -8,6 +8,6 @@ Once the file is loaded into Python, the algorithm cleans the data by removing u
 
 In the second part of the process, the Bot links with Smartsheet to filter down employee working hours across different business units. 
 
-At the end, Bot generates two key reports: an employee working hour summary and a business swap report, which enables supervisors to confirm the employee names/hours listed on the Business Swap. This automated process saves the team approximately 6-8 hours of work and allows them to focus on more critical tasks.
+At the end, Bot generates two key reports: an employee working hour summary and a business swap report, which enables all supervisors, Finance team, HR to confirm the employee names/hours. This automated process saves the team approximately 6-8 hours of work and allows them to focus on more critical tasks.
 
 (⁄ ⁄◕⁄‿⁄◕⁄ ⁄✿)
