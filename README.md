@@ -1,4 +1,5 @@
-# Kronos-bots
+# Kronos-bots ![image](https://user-images.githubusercontent.com/87050797/226014250-0974c1d4-b191-4652-995f-95af44c0eaf2.png)
+
 
 This innovative Bot streamlines the downloading and data cleaning processes, which previously required the involvement of three separate team members. 
 
