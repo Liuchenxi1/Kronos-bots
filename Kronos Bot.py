@@ -265,10 +265,10 @@ import smartsheet
 import pandas as pd
 
 # to read the smartsheet toktken in ptyhon
-smart = smartsheet.Smartsheet('xmfhGE48v905xFQmWJ3tbb7uBrWV29NBdjLMv')
+smart = smartsheet.Smartsheet('Smart sheet Token')
 
 # Get the sheet by ID, to read the sheet
-sheet = smart.Sheets.get_sheet(5852364868478852)
+sheet = smart.Sheets.get_sheet(sheet ID)
 
 # Create a list of dictionaries representing the rows in the sheet
 # This part is provid the values to readable!!!
