@@ -43,8 +43,8 @@ driver.maximize_window()
 #put username in
 #(driver, 10) means: Selenium will wait for a maximum of 10 seconds for an element matching the given criteria to be found
 
-username = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "idToken1"))).send_keys('liuchen')
-password = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "idToken2"))).send_keys('Xz4#P2ecLXhn*eX')
+username = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "idToken1"))).send_keys('-------')
+password = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "idToken2"))).send_keys('-----------')
 
 #click "login"
 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "loginButton_0"))).click()
