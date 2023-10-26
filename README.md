@@ -10,4 +10,3 @@ In the second part of the process, the Bot links with Smartsheet to filter down 
 
 At the end, Bot generates two key reports: an employee working hour summary and a business swap report, which enables all supervisors, Finance team, HR to confirm the employee names/hours. This automated process saves the team approximately 6-8 hours of work and allows them to focus on other tasks.
 
-(⁄ ⁄◕⁄‿⁄◕⁄ ⁄✿)
