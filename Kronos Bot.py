@@ -357,7 +357,7 @@ b_s = b_s.loc[b_s["Agancy"] == 'CEVA']
 
 n = input("********Do you happy with the result?! ********\nyes or no? ")
 while n not in ['yes']:
-    n = input("Why not!? \nlet's do it again: Do you happy with the DAMN result OR NOT!? \n****************\nyes or no? ")
+    n = input("Why not!? \nlet's do it again: Do you happy with the result OR NOT!? \n****************\nyes or no? ")
 print("Alright ~\nAlright ~\nAlright ~","\N{winking face}")
 
 
@@ -368,7 +368,6 @@ time.sleep(3)
 
 b_s.to_excel(r'Z:/Analytics/Krons Employee hours Sum and B_S/Business Swap_clean.xlsx')
 # export the files for now and it can fulfil by python automatically. 
-# 不要自动填充，因为supervisor经常犯错，所以有些时间，BU还是需要手动来确认.
 
 
 # In[59]:
